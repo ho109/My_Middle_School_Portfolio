@@ -4,7 +4,7 @@ this is my 2024 portfolio in notion, and I translated them in English
 ### About Me
 >A simple introduction page about myself
 
-Hello, I’m **Kim Hyojae**, a 2nd-year student at **Naegok Middle School**.
+Hello, I’m **Kim Hyojae**, Korean, 15, student at **Naegok Middle School**.
 
 I have a strong interest in **IT** and **artificial intelligence** and am exploring new possibilities from a middle schooler’s perspective.
 
