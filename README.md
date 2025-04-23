@@ -1,5 +1,5 @@
 # My_portfolio_2024_English
-this is my 2024 portfolio in notion, and I translated them in English
+this is my 2024 portfolio in notion, and I translated them in English, and I used (month /date) in this portfolio
 
 ### About Me
 >A simple introduction page about myself
