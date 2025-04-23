@@ -2,7 +2,7 @@
 this is my 2024 portfolio in notion, and I translated them in English
 
 # Portfolio (2024)
-About Me
+###About Me
 >A simple introduction page about myself
 
 Hello, I’m **Kim Hyojae**, a 2nd-year student at **Naegok Middle School**.
