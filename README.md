@@ -28,24 +28,24 @@ and constantly improving through hands-on projects.
 
 
 ### 1. Lost & Found App for School  
-**🗓 Period**: 2025.03.24 ~ 2025.04.11  
-**🎯 Role**: Full-stack developer (planning, design, coding)  
-**🛠 Tech Stack**:
+**Period**: 2025.03.24 ~ 2025.04.11  
+**Role**: Full-stack developer (planning, design, coding)  
+**Tech Stack**:
 - **Frontend**: HTML, CSS, JavaScript, Material Design, Vive AI  
 - **Backend**: Firebase Realtime DB / Firestore  
 - **Hosting**: Firebase Hosting  
 
-**🔍 Overview**:  
+**Overview**:  
 Created for the **46th Seoul Gangnam-Seocho Student Science Invention Contest**,  
 this web-based app helps students quickly locate lost items by floor using photos and item names.
 
-**✨ Key Features**:
+**Key Features**:
 - Floor-based item registration (1F to 4F)  
 - Real-time synchronization with Firebase  
 - Admin mode for easy item management  
 - Accessible UI designed for students  
 
-**💭 Reflections**:
+**Reflections**:
 - Learned how AI (Vive) can help but also why balance is needed  
 - Noted Firebase’s security issues (e.g. API key exposure)  
 - Gained insight into scalable school-friendly app design
@@ -57,21 +57,21 @@ this web-based app helps students quickly locate lost items by floor using photo
 
 
 ### 2. Proper Waste Sorting Program  
-**🗓 Period**: 2024.10.15 ~ 2024.10.21  
-**🎯 Role**: Project leader, AI trainer, developer  
-**🛠 Platform**: Entry (block-based visual programming tool)  
+**Period**: 2024.10.15 ~ 2024.10.21  
+**Role**: Project leader, AI trainer, developer  
+**Platform**: Entry (block-based visual programming tool)  
 
-**🔍 Overview**:  
+**Overview**:  
 Developed during a climate-focused IT project,  
 this system identifies waste types using AI image recognition and guides users on proper sorting.
 
-**✨ Key Features**:
+**Key Features**:
 - Manual and AI-based waste identification  
 - Focus on plastics, paper, and cans  
 - Designed for students unfamiliar with recycling rules  
 
-**🏆 Achievements**:
-- Trained image model with Kaggle data (~100 samples)  
+**Achievements**:
+- Trained image model with Kaggle data (each 100~150 samples)  
 - Top-ranked in school presentation vote  
 - Created visuals and UI mockups using Canva
 
