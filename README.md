@@ -1,221 +1,130 @@
-# 📘 My Middle School Project (age 14 ~ 15)  
+# 📘 My Middle School Project (age 14 ~ 15)
 
 A portfolio by **Kim Hyojae**, a student at **Naegok Middle School**, passionate about  
 **IT**, **Artificial Intelligence**, and creating real-world solutions through code.
 
-
-
 ---
-
-
 
 ## 👋 About Me
 
 Hello! I'm **Kim Hyojae**, a middle school student from South Korea.  
-
 I’m deeply interested in **AI**, **software development**, and solving problems I face in daily school life using technology.  
-Currently, I’m learning **Python**, **HTML**, **Java**, and **Entry** (a Korean visual coding platform),  
-and constantly improving through hands-on projects.
-
-
+Currently learning **Python**, **HTML**, **Java**, and **Entry**, a Korean visual coding platform.  
+Always growing through hands-on projects.
 
 ---
-
-
 
 ## 💡 Projects
 
+### 1. Lost & Found App for School
 
-
-### 1. Lost & Found App for School  
 **Period**: 2025.03.24 ~ 2025.04.11  
 **Role**: Full-stack developer (planning, design, coding)  
-**Tech Stack**:
-- **Frontend**: HTML, CSS, JavaScript, Material Design, Vive AI  
-- **Backend**: Firebase Realtime DB / Firestore  
-- **Hosting**: Firebase Hosting  
-
+**Tech Stack**:  
+- Frontend: HTML, CSS, JavaScript, Material Design, Vive AI  
+- Backend: Firebase Realtime DB / Firestore  
+- Hosting: Firebase Hosting
 
 **Overview**:  
-Created for the **46th Seoul Gangnam-Seocho Student Science Invention Contest**,  
-this web-based app helps students quickly locate lost items by floor using photos and item names.
+Developed for the 46th Seoul Gangnam-Seocho Student Science Invention Contest.  
+Helps students locate lost items by floor with images and item names.
 
+**Description**:  
+- Register/view items by floor (1F~4F)  
+- Real-time sync via Firebase  
+- Accessible UI with large buttons  
+- Shift from analog → digital lost & found system  
+- Built using Vive AI for UI assistance  
+- Expandable for libraries, public institutions, etc.
 
-### 📖 Description
+**Reflections**:  
+- Vive AI improved speed but showed limitations in debugging/creativity  
+- Firebase was useful but posed API key exposure risks  
+- Learned value of balance between AI tools and developer independence
 
-This project was submitted to the **46th Seoul Gangnam-Seocho Student Science Invention Contest** as a **digital lost & found management system**.  
-It helps students locate lost items at school easily and efficiently using a **web-based application**.
-
-- Users can select a floor (1st to 4th) and register lost items with images and names  
-- Items can be **visually browsed**, and a simple **delete function** improves manageability  
-
-Using **Firebase’s real-time sync**, data can be instantly shared across devices like Chromebooks.  
-UI was optimized for accessibility with thoughtful layout and large buttons.  
-
-This project represents a **practical shift from analog to digital** and shows originality as a **software-based invention**.
-
-> I used **Vive** for the first time as a tool to support rapid development and UI design.
-
-The app assumes that each floor has a designated lost & found box.  
-Admins upload items by floor, and students can **search the location** of lost items **without visiting the office**.  
-This saves time and increases satisfaction.
-
-It can also be adapted for **libraries, public institutions**, and other spaces with similar needs, making it a **versatile digital solution**.
-
-
-**Reflections**:
--  Using **Vive** allowed me to work **faster and more easily**, especially with frontend design which usually takes more time.  
-  However, I realized that relying too heavily on Vive for coding could cause problems like **difficulty in debugging**, **lack of creativity**, and **over-dependence on AI**.
--  I also learned that **Firebase**, while powerful, might not be the most **secure or efficient** in some cases.  
-  **Exposing API keys** in admin mode made me reconsider using a different service in the future.
-- Gained insight into scalable school-friendly app design
-
-
-### 🛠 **Development Notes**
-
-
-- Learned about the science invention contest at school (3/17)  
-- Lost my padded jacket due to a poor lost & found system and barely retrieved it (3/19)  
-- Received notice during science class to submit a project for the contest (3/25)  
-  Decided to make an app based on my experience of losing an item, given my coding interest  
-- Started development using Java and HTML, with AI suggestions (3/28)  
-  Discovered that data wasn't saving properly  
-- AI recommended using Firebase (3/29)  
-  After getting approval to submit, focused on fixing bugs  
-- Learned and applied Firebase functions with Java (4/1)  
-- Implemented real-time sync with Firebase (4/2)  
-- Once satisfied with the system, improved the interface and added documentation (4/3)  
-- Designed a poster for school-wide distribution (4/10)  
-- School is planning to adopt the system for real (4/14)  
-
-
+**Development Notes**:  
+- 3/17: Learned about the contest  
+- 3/19: Lost jacket → inspired the app idea  
+- 3/25: Official project notice  
+- 3/28: Started development (Java + HTML + AI help)  
+- 3/29: Firebase suggested by AI  
+- 4/01~04/03: Firebase integration, UI polish  
+- 4/10: Created school poster  
+- 4/14: School considering actual adoption
 
 ---
-
-
-
-### 2. Proper Waste Sorting Program  
-**Period**: 2024.10.15 ~ 2024.10.29  
-**Role**: Project leader, AI trainer, developer  
-**Platform**: Entry (block-based visual programming tool)  
-
-**Overview**:  
-Developed during a climate-focused IT project,  
-this system identifies waste types using AI image recognition and guides users on proper sorting.
 
 ### 2. Proper Waste Sorting Program
 
-**🗓 Period**: 2024.10.15 ~ 2024.10.21  
-**🎯 Role**: Team leader, AI trainer, app designer and developer  
-**🛠 Platform**: Entry (Korean visual coding tool), Canva, Kaggle  
+**Period**: 2024.10.15 ~ 2024.10.29  
+**Role**: Team leader, AI trainer, developer  
+**Platform**: Entry (block-based), Canva, Kaggle
+
+**Overview**:  
+Created for a school IT project on climate change.  
+Uses AI to detect waste types and recommend correct disposal methods.
+
+**Description**:  
+- Button-based guide for known categories  
+- AI camera for unknown waste detection  
+- Focused on plastics, paper, cans  
+- UI designed for ease of use
+
+**Achievements**:  
+- ~100 images per category trained with Kaggle data  
+- Ranked top in school vote  
+- Canva used for design and presentation
+
+**Development Notes**:  
+- 10/10: Project launched  
+- 10/15: Paper prototype & mockup video  
+- 10/16~17: Entry object recognition + AI training  
+- 10/22: Final refinements  
+- 10/29: School-wide presentation and recognition
 
 ---
 
-### 📖 Description
+## 💫 Learning Highlights
 
-This project was developed for an **AI/SW problem-solving class** under the topic of **climate change**.  
-After narrowing down broad themes, we focused on the real-life issue of **improper waste sorting**.
+### Micro:bit Projects  
+- Controlled servo motors, OLED displays, LED I/O  
+- Built linear regression models in Entry  
+- Practiced predictive logic with real-world sensors
 
-The app provides guidance on **how to sort different types of waste** correctly.  
-It also includes an **AI image recognition feature** that uses a camera to identify the waste type and give proper instructions.
+### SFPC 2024 Participation  
+- Solved 8/11 problems (Rank: 119th)  
+- Visualized school API data with Google Sheets  
+- Studied computer systems and logic structure
 
-Key features:
-- Buttons to check sorting method for known waste categories  
-- AI detection for unknown waste using trained image model  
-- Simple UI designed for users unfamiliar with recycling rules  
-
-**Achievements**:
-- Trained image model with Kaggle data (each 100~150 samples)  
-- Top-ranked in school presentation vote  
-- Created visuals and UI mockups using Canva
-
-### 🛠 Development Notes – Proper Waste Sorting App
-
-- Started SW/AI problem-solving project at school (10/10)  
-  Analyzed the topic of climate change and identified key issue: improper waste sorting  
-- Created a paper prototype and a mockup video (10/15)  
-- Explored Entry platform capabilities and prepared training data (10/16)  
-- Applied Entry’s object recognition feature to the project (10/17)  
-  Collected ~100 waste images from Kaggle and trained the AI model  
-  Optimized dataset by focusing on plastics, paper, and cans to prevent system overload  
-- Designed presentation slides in Canva and refined app functionality (10/22)  
-  Simplified the UI based on feedback from classmates  
-- Presented the project in class and joined group evaluation (10/29)  
-  Ranked as one of the top teams and presented in front of the school  
-
-  
+### Data Handling Practice  
+- Cleaned and structured spreadsheet datasets  
+- Found and fixed errors  
+- Created visual charts from raw data
 
 ---
 
+## ❓ What is Entry?
 
-
-## 💫 Learning Highlights  
-
-
-
-
-### 💡 Micro:bit Projects
-- Controlled servo motors, OLED displays, and LED I/O  
-- Built and tested linear regression models using Entry  
-- Developed predictive logic based on real-world sensor data  
-
-
-
-### 💡 SFPC 2024 Participation
-- Solved 8 out of 11 problems (Rank: 119th)  
-- Used school APIs and Google Sheets to visualize data  
-- Studied internal structure and operation of computer systems  
-
-
-
-### 💡 Data Handling Practice
-- Analyzed datasets using spreadsheet tools (e.g. Excel, Google Sheets)  
-- Identified data inconsistencies and corrected errors manually  
-- Created charts and graphs from cleaned data to support conclusions  
-- Practiced organizing raw data into structured, readable formats  
-
-
+**Entry** is a Korean block-based coding platform similar to Scratch.  
+Used widely in schools for teaching programming.  
+Supports:  
+- AI model training  
+- Object recognition  
+- Micro:bit hardware connection
 
 ---
 
-
-
-## ❓ What is Entry?  
-
-
-**Entry** is a Korean visual programming tool similar to **Scratch**.  
-It helps students build games, apps, and even AI-powered features by combining code blocks.  
-Perfect for beginners and widely used in Korean schools.  
-It supports:
-- **AI model training**
-- **Object recognition**
-- **Micro:bit hardware interaction**
-
-
-
-
----
-
-
-
-## 🎁 Resources & Links  
-
+## 🎁 Resources & Links
 
 - 🔗 [Entry Project - Waste Sorting App](https://playentry.org/project/671593d4c40ad113746d7067)  
 - 🎥 [Presentation (Canva)](https://www.canva.com/design/DAGlgHBqS0U/5Zv8k1mrrHjHVt1lRMjH6w/edit)  
-- 📊 [Kaggle Dataset for AI Training](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)
-- 🖼 [Poster - Lost & Found App (Korean) ](https://www.canva.com/design/DAGTPe0au8E/fj4cUME4IcYzAhzeEHhMFg/e)
-
+- 📊 [Kaggle Dataset for AI Training](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)  
+- 🖼 [Poster - Lost & Found App (Korean)](https://www.canva.com/design/DAGTPe0au8E/fj4cUME4IcYzAhzeEHhMFg/e)
 
 ---
 
+## 🙌 Closing Thoughts
 
-
-## 🙌 Closing Thoughts  
-
-
-These projects showed me how personal experiences can become impactful software ideas.  
-They helped me grow technically, think creatively, and reflect critically on how technology can improve everyday life.  
-
-I look forward to learning more and building even better solutions in the future.
-
+These projects taught me how real-world experiences can lead to meaningful software solutions.  
+They helped me grow technically and creatively, and sparked my interest in solving problems through technology.  
+I’m excited to keep learning and building even better solutions in the future.
