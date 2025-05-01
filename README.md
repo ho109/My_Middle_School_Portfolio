@@ -105,12 +105,12 @@ this system identifies waste types using AI image recognition and guides users o
 
 **Entry** is a Korean visual programming tool similar to **Scratch**.  
 It helps students build games, apps, and even AI-powered features by combining code blocks.  
+Perfect for beginners and widely used in Korean schools.  
 It supports:
 - **AI model training**
 - **Object recognition**
 - **Micro:bit hardware interaction**
 
-Perfect for beginners and widely used in Korean schools.
 
 
 
