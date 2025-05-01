@@ -35,15 +35,18 @@ and constantly improving through hands-on projects.
 - **Backend**: Firebase Realtime DB / Firestore  
 - **Hosting**: Firebase Hosting  
 
+
 **Overview**:  
 Created for the **46th Seoul Gangnam-Seocho Student Science Invention Contest**,  
 this web-based app helps students quickly locate lost items by floor using photos and item names.
+
 
 **Key Features**:
 - Floor-based item registration (1F to 4F)  
 - Real-time synchronization with Firebase  
 - Admin mode for easy item management  
 - Accessible UI designed for students  
+
 
 **Reflections**:
 -  Using **Vive** allowed me to work **faster and more easily**, especially with frontend design which usually takes more time.  
@@ -52,7 +55,9 @@ this web-based app helps students quickly locate lost items by floor using photo
   **Exposing API keys** in admin mode made me reconsider using a different service in the future.
 - Gained insight into scalable school-friendly app design
 
+
 ### 🛠 **Development Notes**
+
 
 - Learned about the science invention contest at school (3/17)  
 - Lost my padded jacket due to a poor lost & found system and barely retrieved it (3/19)  
