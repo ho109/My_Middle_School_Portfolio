@@ -159,7 +159,7 @@ It supports:
 
 
 
-## 📎 Resources & Links
+## 🎁 Resources & Links
 
 - 🔗 [Entry Project - Waste Sorting App](https://playentry.org/project/671593d4c40ad113746d7067)  
 - 🎥 [Presentation (Canva)](https://www.canva.com/design/DAGlgHBqS0U/5Zv8k1mrrHjHVt1lRMjH6w/edit)  
