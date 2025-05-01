@@ -103,10 +103,26 @@ It can also be adapted for **libraries, public institutions**, and other spaces 
 Developed during a climate-focused IT project,  
 this system identifies waste types using AI image recognition and guides users on proper sorting.
 
-**Key Features**:
-- Manual and AI-based waste identification  
-- Focus on plastics, paper, and cans  
-- Designed for students unfamiliar with recycling rules  
+### 2. Proper Waste Sorting Program
+
+**🗓 Period**: 2024.10.15 ~ 2024.10.21  
+**🎯 Role**: Team leader, AI trainer, app designer and developer  
+**🛠 Platform**: Entry (Korean visual coding tool), Canva, Kaggle  
+
+---
+
+### 📖 Description
+
+This project was developed for an **AI/SW problem-solving class** under the topic of **climate change**.  
+After narrowing down broad themes, we focused on the real-life issue of **improper waste sorting**.
+
+The app provides guidance on **how to sort different types of waste** correctly.  
+It also includes an **AI image recognition feature** that uses a camera to identify the waste type and give proper instructions.
+
+Key features:
+- Buttons to check sorting method for known waste categories  
+- AI detection for unknown waste using trained image model  
+- Simple UI designed for users unfamiliar with recycling rules  
 
 **Achievements**:
 - Trained image model with Kaggle data (each 100~150 samples)  
