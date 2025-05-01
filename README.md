@@ -107,12 +107,14 @@ this system identifies waste types using AI image recognition and guides users o
 - Presented the project in class and joined group evaluation (10/29)  
   Ranked as one of the top teams and presented in front of the school  
 
+  
 
 ---
 
 
 
-## 💫 Learning Highlights
+## 💫 Learning Highlights  
+
 
 
 
@@ -142,7 +144,8 @@ this system identifies waste types using AI image recognition and guides users o
 
 
 
-## ❓ What is Entry?
+## ❓ What is Entry?  
+
 
 **Entry** is a Korean visual programming tool similar to **Scratch**.  
 It helps students build games, apps, and even AI-powered features by combining code blocks.  
@@ -159,7 +162,8 @@ It supports:
 
 
 
-## 🎁 Resources & Links
+## 🎁 Resources & Links  
+
 
 - 🔗 [Entry Project - Waste Sorting App](https://playentry.org/project/671593d4c40ad113746d7067)  
 - 🎥 [Presentation (Canva)](https://www.canva.com/design/DAGlgHBqS0U/5Zv8k1mrrHjHVt1lRMjH6w/edit)  
@@ -171,7 +175,8 @@ It supports:
 
 
 
-## 🙌 Closing Thoughts
+## 🙌 Closing Thoughts  
+
 
 These projects showed me how personal experiences can become impactful software ideas.  
 They helped me grow technically, think creatively, and reflect critically on how technology can improve everyday life.  
