@@ -93,6 +93,19 @@ this system identifies waste types using AI image recognition and guides users o
 - Top-ranked in school presentation vote  
 - Created visuals and UI mockups using Canva
 
+### 🛠 Development Notes – Proper Waste Sorting App
+
+- Started SW/AI problem-solving project at school (10/10)  
+- Analyzed the topic of climate change and identified key issue: improper waste sorting  
+- Created a paper prototype and a mockup video (10/15)  
+- Explored Entry platform capabilities and prepared training data (10/16)  
+- Applied Entry’s object recognition feature to the project (10/17)  
+- Collected ~100 waste images from Kaggle and trained the AI model  
+- Optimized dataset by focusing on plastics, paper, and cans to prevent system overload  
+- Designed presentation slides in Canva and refined app functionality (10/22)  
+- Simplified the UI based on feedback from classmates  
+- Presented the project in class and joined group evaluation (10/29)  
+- Ranked as one of the top teams and presented in front of the school
 
 
 ---
