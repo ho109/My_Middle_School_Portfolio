@@ -112,19 +112,29 @@ this system identifies waste types using AI image recognition and guides users o
 
 
 
-## 🛠 Learning Highlights
+## 💫 Learning Highlights
 
 
 
 ### 💡 Micro:bit Projects
-- Controlled servo motors, OLED displays, LED I/O  
+- Controlled servo motors, OLED displays, and LED I/O  
 - Built and tested linear regression models using Entry  
 - Developed predictive logic based on real-world sensor data  
 
+
+
 ### 💡 SFPC 2024 Participation
 - Solved 8 out of 11 problems (Rank: 119th)  
-- Used school APIs + Google Sheets to visualize data  
-- Studied internal structure of computing systems
+- Used school APIs and Google Sheets to visualize data  
+- Studied internal structure and operation of computer systems  
+
+
+
+### 💡 Data Handling Practice
+- Analyzed datasets using spreadsheet tools (e.g. Excel, Google Sheets)  
+- Identified data inconsistencies and corrected errors manually  
+- Created charts and graphs from cleaned data to support conclusions  
+- Practiced organizing raw data into structured, readable formats  
 
 
 
