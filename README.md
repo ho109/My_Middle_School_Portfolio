@@ -14,73 +14,113 @@ Always growing through hands-on projects.
 
 ---
 
-## 💡 Projects
+## 📂 Projects
 
-### 1. Lost & Found App for School
+### 1. Proper Waste Sorting Program
 
-**Period**: 2025.03.24 ~ 2025.04.11  
-**Role**: Full-stack developer (planning, design, coding)  
-**Tech Stack**:  
-- Frontend: HTML, CSS, JavaScript, Material Design, Vive AI  
-- Backend: Firebase Realtime DB / Firestore  
-- Hosting: Firebase Hosting
-
-**Overview**:  
-Developed for the 46th Seoul Gangnam-Seocho Student Science Invention Contest.  
-Helps students locate lost items by floor with images and item names.
-
-**Description**:  
-- Register/view items by floor (1F~4F)  
-- Real-time sync via Firebase  
-- Accessible UI with large buttons  
-- Shift from analog → digital lost & found system  
-- Built using Vive AI for UI assistance  
-- Expandable for libraries, public institutions, etc.
-
-**Reflections**:  
-- Vive AI improved speed but showed limitations in debugging/creativity  
-- Firebase was useful but posed API key exposure risks  
-- Learned value of balance between AI tools and developer independence
-
-**Development Notes**:  
-- 3/17: Learned about the contest  
-- 3/19: Lost jacket → inspired the app idea  
-- 3/25: Official project notice  
-- 3/28: Started development (Java + HTML + AI help)  
-- 3/29: Firebase suggested by AI  
-- 4/01~04/03: Firebase integration, UI polish  
-- 4/10: Created school poster  
-- 4/14: School considering actual adoption
+**📅 Period**: 2024.10.15 ~ 2024.10.21  
+**🎯 Role**: Project leader, AI trainer, UI designer, and app developer  
+**🛠 Technologies Used**:  
+- **AI Training**: Entry’s image training feature  
+- **Frontend**: Entry’s built-in UI tools  
+- **Backend**: Entry’s built-in functions + custom additions  
+- **Login System**: Entry’s data saving feature  
 
 ---
 
-### 2. Proper Waste Sorting Program
+**📖 Description**  
+This project began with the broad topic of **climate change**.  
+By narrowing down to relatable issues, we chose **waste disposal** and identified that **improper sorting** was the key problem.
 
-**Period**: 2024.10.15 ~ 2024.10.29  
-**Role**: Team leader, AI trainer, developer  
-**Platform**: Entry (block-based), Canva, Kaggle
+**Core Questions**:
+- Why is recycling not working?  
+  → Because of improper waste sorting practices  
+- Solution: Use AI to help users sort waste correctly
 
-**Overview**:  
-Created for a school IT project on climate change.  
-Uses AI to detect waste types and recommend correct disposal methods.
+The app was developed for a Zero Waste initiative in an IT class by our team *Hojae*.  
+It helps students and users understand and perform correct waste sorting, even if they don’t know how.
 
-**Description**:  
-- Button-based guide for known categories  
-- AI camera for unknown waste detection  
-- Focused on plastics, paper, cans  
-- UI designed for ease of use
+**Key Features**:
+- Button-based guide for known waste categories (e.g., plastic)  
+- AI camera recognition for unknown waste  
+- Friendly interface designed for beginners  
 
-**Achievements**:  
-- ~100 images per category trained with Kaggle data  
-- Ranked top in school vote  
-- Canva used for design and presentation
+---
 
-**Development Notes**:  
-- 10/10: Project launched  
-- 10/15: Paper prototype & mockup video  
-- 10/16~17: Entry object recognition + AI training  
-- 10/22: Final refinements  
-- 10/29: School-wide presentation and recognition
+**🏆 Achievements**:
+- Collected and trained ~100 images per category using Kaggle dataset  
+- Avoided overload by focusing on plastics, paper, and cans  
+- Designed presentation materials with Canva  
+- Simplified UI based on peer feedback  
+- Scored highly in school evaluation and presented in auditorium as a top team
+
+---
+
+### 🛠 Development Notes
+
+- **10/10**: Started SW/AI project in school  
+- **10/15**: Created paper prototype and mockup video  
+- **10/16**: Researched how Entry could solve the problem  
+- **10/17**: Applied Entry’s object recognition feature  
+- Collected images from Kaggle (~100 per category)  
+- Reduced data size and emphasized 3 main categories  
+- **10/22**: Finalized app and Canva presentation  
+- Improved UI based on peer feedback  
+- **10/29**: Presented in class, voted by students, and ranked as a top project
+
+---
+
+### 2. Lost & Found App for School
+
+**📅 Period**: 2025.03.24 ~ 2025.04.11  
+**🎯 Role**: Planned, designed, and developed everything – both frontend and backend  
+**🛠 Technologies Used**:  
+- **Hosting**: Firebase Hosting  
+- **Frontend**: HTML, CSS, JavaScript, Material Design UI, AI (Vive)  
+- **Backend**: Firebase Realtime Database or Firestore, JavaScript, Vive  
+
+---
+
+**📖 Description**  
+This project was submitted to the **46th Seoul Gangnam-Seocho Student Science Invention Contest**.  
+It’s a **web-based lost & found management app** that helps students locate lost items more efficiently at school.
+
+**Key Features**:
+- Register and browse lost items by floor (1st to 4th)  
+- Image and item name registration for visual clarity  
+- Simple delete function for better management  
+- Real-time data sync with Firebase  
+- Optimized for Chromebooks and other school devices  
+- Accessible UI with large buttons and clean layout  
+- Represents a shift from analog to digital lost item management  
+- Built using Vive AI tools as development support  
+
+Admins can upload lost items, and students can search by floor—eliminating the need to visit the office and saving time.  
+The system is designed to be scalable for **libraries, public institutions**, and other environments.
+
+---
+
+**🧠 Reflections & Lessons Learned**:
+- Vive made frontend development faster, but overreliance led to debugging difficulty and less creativity  
+- AI should be a tool—developers must retain independent judgment and problem-solving skills  
+- Firebase was helpful but raised concerns over security (API key exposure), suggesting a need to explore safer alternatives
+
+---
+
+### 🛠 Development Notes
+
+- **3/17**: Learned about the science invention contest  
+- **3/19**: Lost my padded jacket due to a poor system → inspired the app idea  
+- **3/25**: Received official notice to submit a project  
+- **3/28**: Began development using Java and HTML, supported by AI tools  
+- **3/29**: Discovered data was not saving properly  
+- AI suggested using Firebase  
+- **4/01**: Learned and applied Firebase integration in Java  
+- **4/02**: Implemented real-time syncing  
+- **4/03**: Improved UI and wrote documentation  
+- **4/10**: Designed a poster for school distribution  
+- **4/14**: School considering full adoption of the app
+
 
 ---
 
@@ -117,7 +157,7 @@ Supports:
 ## 🎁 Resources & Links
 
 - 🔗 [Entry Project - Waste Sorting App](https://playentry.org/project/671593d4c40ad113746d7067)  
-- 🎥 [Presentation (Canva)](https://www.canva.com/design/DAGlgHBqS0U/5Zv8k1mrrHjHVt1lRMjH6w/edit)  
+- 🎥 [Presentation (Canva)](https://www.canva.com/design/DAGlgHBqS0U/5Zv8k1mrrHjHVt1lRMjH6w/edit)  <-- If you would like to know more about this project, please read this
 - 📊 [Kaggle Dataset for AI Training](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)  
 - 🖼 [Poster - Lost & Found App (Korean)](https://www.canva.com/design/DAGTPe0au8E/fj4cUME4IcYzAhzeEHhMFg/e)
 
