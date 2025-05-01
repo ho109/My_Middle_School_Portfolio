@@ -1,115 +1,97 @@
-# My Middle School Project
+# 📘 My Middle School Project
 
-This is the portfolio of **Kim Hyojae**, a middle school student from Naegok Middle School with a deep passion for **IT and Artificial Intelligence**.  
-This document highlights my growth and achievements through various projects and learning experiences during 2024 and 2025.
-
----
-
-## 📌 About Me
-
-Hello, I’m **Kim Hyojae**, a Korean student currently attending **Naegok Middle School**.  
-I am highly interested in **IT**, **artificial intelligence**, and **app development**.  
-From a middle school student’s perspective, I constantly explore how coding can solve real-life problems I encounter in school.  
-I am currently learning and using **Python, HTML, Java, Entry**, and **AI technologies**, and I am growing through project-based learning.
+A portfolio by **Kim Hyojae**, student at **Naegok Middle School**, passionate about **IT**, **Artificial Intelligence**, and solving real-world problems through code.
 
 ---
 
-## 📂 Projects
+## 👋 About Me
 
-### 1. 🔍 Lost & Found App for School (2025)
+Hello! I'm **Kim Hyojae**, a middle school student from South Korea.  
+I'm interested in **AI**, **software development**, and enjoy building solutions to everyday problems—especially those I encounter at school.  
+I’ve been learning **Python, HTML, Java, Entry**, and various **AI tools**, and I'm continually growing through hands-on projects.
 
-- **Period**: 2025.03.24 ~ 2025.04.11  
-- **Role**: Planned, designed, and developed both frontend and backend  
-- **Technologies Used**:
-  - **Hosting**: Firebase Hosting  
-  - **Frontend**: HTML, CSS, JavaScript, Material Design UI, AI (Vive)  
-  - **Backend**: Firebase Realtime Database or Firestore, JavaScript  
+---
+
+## 💡 Projects
+
+### 1. Lost & Found App for School (2025.03.24 ~ 2025.04.11)
+
+**Role**: Full-stack developer (planned, designed, coded)  
+**Tech Stack**:  
+- **Frontend**: HTML, CSS, JavaScript, Material Design, Vive AI  
+- **Backend**: Firebase Realtime DB / Firestore  
+- **Hosting**: Firebase Hosting  
 
 **Overview**:  
-Developed for the **46th Seoul Gangnam-Seocho Student Science Invention Contest**, this is a web-based **lost & found management app** for schools.  
-Users can select floors (1st–4th), upload item photos, and register lost items with names. The system is synchronized in real-time using **Firebase**, ensuring compatibility with devices like Chromebooks.
+Created for the **46th Seoul Gangnam-Seocho Student Science Invention Contest**, this web-based app helps students locate lost items at school more efficiently.
 
 **Key Features**:
-- Visual upload & browsing by floor
-- Simple management with add/delete functionality
-- Scalable for libraries or public spaces
-- Admin-side management for faster item return
+- Upload and view lost items by floor (1F–4F)
+- Real-time data sync via Firebase
+- Admins can easily manage item listings
+- Designed with accessibility and school usability in mind
 
 **Reflections**:
-- First time using **Vive AI** for frontend suggestions
-- Learned importance of developer judgment over AI reliance
-- Noted security limitations of Firebase (e.g., exposed API keys)
+- Vive AI accelerated UI design but taught me to avoid over-dependence
+- Discovered Firebase limitations (e.g. API key exposure)
+- Understood the balance between AI assistance and developer intuition
 
 ---
 
-### 2. 🚯 Proper Waste Sorting Program (2024)
+### 2. Proper Waste Sorting Program (2024.10.15 ~ 2024.10.21)
 
-- **Period**: 2024.10.15 ~ 2024.10.21  
-- **Role**: Project leader, software developer, AI trainer, UI designer  
-- **Technologies Used**:
-  - **AI Training**: Entry image training feature  
-  - **Frontend/Backend**: Entry's built-in features  
-  - **Login System**: Entry's data-saving tool  
+**Role**: Project leader, developer, AI trainer  
+**Platform**: Entry (Korean block-based coding tool)  
+**AI Tools**: Entry’s image training and object recognition  
 
 **Overview**:  
-Created in response to climate change discussions in class.  
-Identified **improper waste sorting** as a core issue in recycling and developed a solution that uses AI to identify waste categories and suggest proper disposal methods.
+Built during a climate-themed IT project. Tackled improper waste sorting by using AI to recognize waste types and provide correct recycling instructions.
 
-**Key Features**:
-- User selects known category or uses AI camera to auto-detect waste
-- Focused on plastics, paper, and cans
-- UI/UX optimized based on peer feedback
-- Designed a **Zero Waste** program usable by students
+**How it Works**:
+- Users can manually select or use AI to detect the waste type
+- Focused categories: plastics, paper, cans
+- Designed for students unfamiliar with recycling rules
 
-**Reflections**:
-- Collected image data from **Kaggle**
-- Presented in front of school, ranked as top team
-- Used **Canva** for mockups and promotional materials
+**Achievements**:
+- Top-ranked team in class presentations
+- Used Kaggle dataset to train AI model
+- Created UI mockups and visuals with Canva
 
 ---
 
-## 🗃 Learning Records
+## 🛠 Learning Highlights
 
 ### Micro:bit Projects
-
-- Implemented physical computing with servo motors, OLEDs, and LEDs  
-- Learned linear regression modeling using Entry  
-- Developed custom predictive algorithms and tested them  
-- Used the **Biko** platform for modeling and visualization
+- Used servo motors, OLED displays, LED I/O
+- Built linear regression models using Entry
+- Developed custom algorithms to predict and compare values
 
 ### SFPC 2024 Participation
-
-- Solved 8 out of 11 problems as a team  
-- Ranked **119th** overall  
-- Connected school APIs with Google Sheets for data visualization  
-- Studied **computer system structures** and **data pipelines**
+- Solved 8 out of 11 problems (team score: 119th overall)
+- Visualized API-connected school data in Google Sheets
+- Studied basic computer system operations and logic
 
 ---
 
-## 🔧 What is Entry?
+## ❓ What is Entry?
 
-**Entry** is a Korean visual programming platform similar to **Scratch**, widely used in schools for beginner-level coding education.  
-It supports features such as:
-- Block-based programming
-- **AI model training** and **object recognition**
-- Integration with hardware like **micro:bit**
-
-Entry empowers students to create **interactive stories**, **games**, and **AI-based applications** while learning foundational software development skills.
+**Entry** is a Korean block-based programming platform similar to **Scratch**.  
+It enables students to build interactive apps, train AI models, and connect to hardware like **micro:bit**, making it perfect for learning programming fundamentals and problem-solving.
 
 ---
 
-## 📎 Links & Screenshots
+## 📎 Resources & Links
 
-- [Entry Project Link - Proper Waste Sorting Program](#)  
-- [Canva Presentation](#)  
-- [Lost & Found App Poster](#)  
-- [Kaggle Dataset Used](#)
+- 🔗 [Entry Project - Waste Sorting App](#)  
+- 🎥 [Canva Presentation](#)  
+- 📊 [Kaggle Dataset for AI Training](#)  
+- 🖼 [Lost & Found App Poster](#)
 
 ---
 
-## 🙌 Final Thoughts
+## 🙌 Closing Thoughts
 
-Through these projects, I discovered the power of software to solve real-world problems.  
-I learned how to integrate AI, design intuitive interfaces, and reflect on the **ethical use of technology**.  
-As I move forward, I aim to continue growing as a responsible and creative developer.
+Through these projects, I learned how to turn personal experiences into practical solutions using technology.  
+They taught me technical skills, teamwork, and most importantly, the value of creativity and responsibility in development.  
+I'm excited to keep learning and building as I grow as a developer.
 
