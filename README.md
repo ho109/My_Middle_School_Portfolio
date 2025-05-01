@@ -128,7 +128,6 @@ The system is designed to be scalable for **libraries, public institutions**, an
 
 ### Micro:bit Projects  
 - Controlled servo motors, OLED displays, LED I/O  
-- Built linear regression models in Entry  
 - Practiced predictive logic with real-world sensors
 
 ### SFPC 2024 Participation  
@@ -146,11 +145,10 @@ The system is designed to be scalable for **libraries, public institutions**, an
 ## ❓ What is Entry?
 
 **Entry** is a Korean block-based coding platform similar to Scratch.  
-Used widely in schools for teaching programming.  
+Used widely in Korean schools for teaching programming.  
 Supports:  
 - AI model training  
 - Object recognition  
-- Micro:bit hardware connection
 
 ---
 
