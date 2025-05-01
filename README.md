@@ -46,9 +46,27 @@ this web-based app helps students quickly locate lost items by floor using photo
 - Accessible UI designed for students  
 
 **Reflections**:
-- Learned how AI (Vive) can help but also why balance is needed  
-- Noted Firebase’s security issues (e.g. API key exposure)  
+-  Using **Vive** allowed me to work **faster and more easily**, especially with frontend design which usually takes more time.  
+  However, I realized that relying too heavily on Vive for coding could cause problems like **difficulty in debugging**, **lack of creativity**, and **over-dependence on AI**.
+-  I also learned that **Firebase**, while powerful, might not be the most **secure or efficient** in some cases.  
+  **Exposing API keys** in admin mode made me reconsider using a different service in the future.
 - Gained insight into scalable school-friendly app design
+
+### 🛠 **Development Notes**
+
+- Learned about the science invention contest at school (3/17)  
+- Lost my padded jacket due to a poor lost & found system and barely retrieved it (3/19)  
+- Received notice during science class to submit a project for the contest (3/25)  
+- Decided to make an app based on my experience of losing an item, given my coding interest  
+- Started development using Java and HTML, with AI suggestions (3/28)  
+- Discovered that data wasn't saving properly  
+- AI recommended using Firebase (3/29)  
+- After getting approval to submit, focused on fixing bugs  
+- Learned and applied Firebase functions with Java (4/1)  
+- Implemented real-time sync with Firebase (4/2)  
+- Once satisfied with the system, improved the interface and added documentation (4/3)  
+- Designed a poster for school-wide distribution (4/10)  
+- School is planning to adopt the system for real (4/14)
 
 
 
