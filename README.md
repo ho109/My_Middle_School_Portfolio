@@ -120,10 +120,10 @@ Perfect for beginners and widely used in Korean schools.
 
 ## 📎 Resources & Links
 
-- 🔗 [Entry Project - Waste Sorting App](# https://playentry.org/project/671593d4c40ad113746d7067)  
-- 🎥 [Presentation (Canva)](# https://www.canva.com/design/DAGlgHBqS0U/5Zv8k1mrrHjHVt1lRMjH6w/edit)  
-- 📊 [Kaggle Dataset for AI Training](# https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)
-- 🖼 [Poster - Lost & Found App (Korean) ](# https://www.canva.com/design/DAGTPe0au8E/fj4cUME4IcYzAhzeEHhMFg/e)
+- 🔗 [Entry Project - Waste Sorting App](https://playentry.org/project/671593d4c40ad113746d7067)  
+- 🎥 [Presentation (Canva)](https://www.canva.com/design/DAGlgHBqS0U/5Zv8k1mrrHjHVt1lRMjH6w/edit)  
+- 📊 [Kaggle Dataset for AI Training](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)
+- 🖼 [Poster - Lost & Found App (Korean) ](https://www.canva.com/design/DAGTPe0au8E/fj4cUME4IcYzAhzeEHhMFg/e)
 
 
 ---
