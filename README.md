@@ -41,11 +41,26 @@ Created for the **46th Seoul Gangnam-Seocho Student Science Invention Contest**,
 this web-based app helps students quickly locate lost items by floor using photos and item names.
 
 
-**Key Features**:
-- Floor-based item registration (1F to 4F)  
-- Real-time synchronization with Firebase  
-- Admin mode for easy item management  
-- Accessible UI designed for students  
+### 📖 Description
+
+This project was submitted to the **46th Seoul Gangnam-Seocho Student Science Invention Contest** as a **digital lost & found management system**.  
+It helps students locate lost items at school easily and efficiently using a **web-based application**.
+
+- Users can select a floor (1st to 4th) and register lost items with images and names  
+- Items can be **visually browsed**, and a simple **delete function** improves manageability  
+
+Using **Firebase’s real-time sync**, data can be instantly shared across devices like Chromebooks.  
+UI was optimized for accessibility with thoughtful layout and large buttons.  
+
+This project represents a **practical shift from analog to digital** and shows originality as a **software-based invention**.
+
+> I used **Vive** for the first time as a tool to support rapid development and UI design.
+
+The app assumes that each floor has a designated lost & found box.  
+Admins upload items by floor, and students can **search the location** of lost items **without visiting the office**.  
+This saves time and increases satisfaction.
+
+It can also be adapted for **libraries, public institutions**, and other spaces with similar needs, making it a **versatile digital solution**.
 
 
 **Reflections**:
