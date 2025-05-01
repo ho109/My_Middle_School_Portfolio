@@ -1,4 +1,4 @@
-# 📘 My Middle School Project
+# 📘 My Middle School Project (age 14 ~ 15)
 
 A portfolio by **Kim Hyojae**, a student at **Naegok Middle School**, passionate about  
 **IT**, **Artificial Intelligence**, and creating real-world solutions through code.
