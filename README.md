@@ -1,97 +1,115 @@
-# My_portfolio_2024_English
-this is my 2024 portfolio in notion, and I translated them in English, and I used (month /date) in this portfolio
+# My Middle School Project
 
-### About Me
->A simple introduction page about myself
+This is the portfolio of **Kim Hyojae**, a middle school student from Naegok Middle School with a deep passion for **IT and Artificial Intelligence**.  
+This document highlights my growth and achievements through various projects and learning experiences during 2024 and 2025.
 
-Hello, I’m **Kim Hyojae**, Korean, 15, student at **Naegok Middle School**.
+---
 
-I have a strong interest in **IT** and **artificial intelligence** and am exploring new possibilities from a middle schooler’s perspective.
+## 📌 About Me
 
-I am learning programming languages and coding tools such as **Python**, **Entry**, and **AI technologies**, and developing myself based on these skills.
-
-In particular, I am a student developer with a passion for solving problems encountered in school life through coding and AI. I want to continue learning and growing in the fields of **AI** and **app development**.
+Hello, I’m **Kim Hyojae**, a Korean student currently attending **Naegok Middle School**.  
+I am highly interested in **IT**, **artificial intelligence**, and **app development**.  
+From a middle school student’s perspective, I constantly explore how coding can solve real-life problems I encounter in school.  
+I am currently learning and using **Python, HTML, Java, Entry**, and **AI technologies**, and I am growing through project-based learning.
 
 ---
 
 ## 📂 Projects
 
-### 1. Proper Waste Sorting Program
+### 1. 🔍 Lost & Found App for School (2025)
 
-**Period**: 2024.10.15 ~ 2024.10.21  
-**Role**: Project leader and software developer, responsible for AI image recognition training, and UI designer
+- **Period**: 2025.03.24 ~ 2025.04.11  
+- **Role**: Planned, designed, and developed both frontend and backend  
+- **Technologies Used**:
+  - **Hosting**: Firebase Hosting  
+  - **Frontend**: HTML, CSS, JavaScript, Material Design UI, AI (Vive)  
+  - **Backend**: Firebase Realtime Database or Firestore, JavaScript  
 
-**Technologies Used**:
-- **AI Image Training**: Entry image training feature  
-- **Frontend**: Entry’s built-in buttons and tools  
-- **Backend**: Entry built-in features + additional functions  
-- **Login System**: Entry’s data saving feature  
+**Overview**:  
+Developed for the **46th Seoul Gangnam-Seocho Student Science Invention Contest**, this is a web-based **lost & found management app** for schools.  
+Users can select floors (1st–4th), upload item photos, and register lost items with names. The system is synchronized in real-time using **Firebase**, ensuring compatibility with devices like Chromebooks.
 
-**Description**:  
-Started by analyzing the broad topic of “climate change”
+**Key Features**:
+- Visual upload & browsing by floor
+- Simple management with add/delete functionality
+- Scalable for libraries or public spaces
+- Admin-side management for faster item return
 
-→ Extracted smaller keywords such as “deforestation,” “carbon emissions,” and “waste disposal”  
-→ Chose “waste disposal” as the most relatable to daily life
-
-**What is the core problem of waste disposal?**  
-→ Recycling, a key solution, is not being properly implemented
-
-**Why is recycling not working?**  
-→ Due to incorrect waste sorting practices  
-→ Chose “improper waste sorting” as the main problem
-
-This project was a **Zero Waste** initiative developed for an **IT class** and submitted by our team **‘Hojae’**. It’s a system aimed at encouraging students and users to sort waste properly. Recommended for people who are unfamiliar with how to recycle correctly.
-
-This app categorizes types of waste and informs the user how to sort each one properly.
-
-If you want to sort plastic waste, simply press the **“Plastic Sorting Method”** button.  
-If you don’t know what type of waste you’re dealing with, the **AI**—trained on image data—can recognize it through the camera and tell you the category and proper sorting method.
-
-**Development Notes / Usage Highlights**:
-- SW/AI problem-solving project started at school (10/10)
-- Broke down the environmental issue and identified the core problem
-- Created a paper prototype with pencil and paper, made a mockup video (10/15)
-- Researched how Entry can help solve the issue and prepared the data (10/16)
-- Discovered Entry’s object recognition feature and applied it (10/17)
-- Collected ~100 images of waste categories from Kaggle and trained the model
-- Reduced image data volume to prevent overload, focused on plastics, paper, and cans
-- Created presentation materials in Canva and refined the app until presentation day (10/22)
-- Simplified the UI after discussion with other students
-- Presented in class and participated in group voting (10/29)
-- Received high scores, presented in the school auditorium, and ranked among the top teams
-
-**Links/Screenshots**:
-- Presentation link  
-- Entry project link  
-- Kaggle dataset used for AI training
+**Reflections**:
+- First time using **Vive AI** for frontend suggestions
+- Learned importance of developer judgment over AI reliance
+- Noted security limitations of Firebase (e.g., exposed API keys)
 
 ---
 
-## 🗄 Learning Records
+### 2. 🚯 Proper Waste Sorting Program (2024)
 
-### Micro:bit
-- Implemented physical computing systems, used servo motors, OLED displays, data logging, LED I/O  
-- Learned and practiced **linear regression models** using Entry  
-- Solved problems by analyzing gaps between predicted and actual values and building algorithms  
-- Used **Biko platform** for predictive modeling and regression formula creation
+- **Period**: 2024.10.15 ~ 2024.10.21  
+- **Role**: Project leader, software developer, AI trainer, UI designer  
+- **Technologies Used**:
+  - **AI Training**: Entry image training feature  
+  - **Frontend/Backend**: Entry's built-in features  
+  - **Login System**: Entry's data-saving tool  
 
-### 2024 SFPC Participation
-- Collaborated with team to complete assigned sections  
-- Ranked **119th** (out of 11 problems: 2 wrong, 1 not submitted, 8 correct)  
-- Visualized data using **Google Sheets**  
-- Learned to connect **school information APIs** with spreadsheets to draw graphs  
-- Studied the **structure and operation of computer systems**
+**Overview**:  
+Created in response to climate change discussions in class.  
+Identified **improper waste sorting** as a core issue in recycling and developed a solution that uses AI to identify waste categories and suggest proper disposal methods.
+
+**Key Features**:
+- User selects known category or uses AI camera to auto-detect waste
+- Focused on plastics, paper, and cans
+- UI/UX optimized based on peer feedback
+- Designed a **Zero Waste** program usable by students
+
+**Reflections**:
+- Collected image data from **Kaggle**
+- Presented in front of school, ranked as top team
+- Used **Canva** for mockups and promotional materials
+
+---
+
+## 🗃 Learning Records
+
+### Micro:bit Projects
+
+- Implemented physical computing with servo motors, OLEDs, and LEDs  
+- Learned linear regression modeling using Entry  
+- Developed custom predictive algorithms and tested them  
+- Used the **Biko** platform for modeling and visualization
+
+### SFPC 2024 Participation
+
+- Solved 8 out of 11 problems as a team  
+- Ranked **119th** overall  
+- Connected school APIs with Google Sheets for data visualization  
+- Studied **computer system structures** and **data pipelines**
 
 ---
 
 ## 🔧 What is Entry?
 
-**Entry** is a Korean block-based visual programming platform similar to **Scratch**.  
-It is widely used in Korean schools for beginner-level software education and allows students to create interactive stories, games, and applications by combining code blocks.  
-Entry also supports features such as **AI model training**, **object recognition**, and **hardware interaction** with devices like **micro:bit**.  
-It is designed to be intuitive and accessible, making it ideal for middle and high school students to learn coding and problem-solving.
+**Entry** is a Korean visual programming platform similar to **Scratch**, widely used in schools for beginner-level coding education.  
+It supports features such as:
+- Block-based programming
+- **AI model training** and **object recognition**
+- Integration with hardware like **micro:bit**
+
+Entry empowers students to create **interactive stories**, **games**, and **AI-based applications** while learning foundational software development skills.
 
 ---
-🔧 What is Entry?
-Entry is a Korean block-based visual programming platform similar to Scratch. It is widely used in Korean schools for beginner-level software education and allows students to create interactive stories, games, and applications by combining code blocks. Entry also supports features such as AI model training, object recognition, and hardware interaction with devices like micro:bit. It is designed to be intuitive and accessible, making it ideal for middle and high school students to learn coding and problem-solving.
+
+## 📎 Links & Screenshots
+
+- [Entry Project Link - Proper Waste Sorting Program](#)  
+- [Canva Presentation](#)  
+- [Lost & Found App Poster](#)  
+- [Kaggle Dataset Used](#)
+
+---
+
+## 🙌 Final Thoughts
+
+Through these projects, I discovered the power of software to solve real-world problems.  
+I learned how to integrate AI, design intuitive interfaces, and reflect on the **ethical use of technology**.  
+As I move forward, I aim to continue growing as a responsible and creative developer.
 
