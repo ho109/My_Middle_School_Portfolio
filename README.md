@@ -57,11 +57,11 @@ this web-based app helps students quickly locate lost items by floor using photo
 - Learned about the science invention contest at school (3/17)  
 - Lost my padded jacket due to a poor lost & found system and barely retrieved it (3/19)  
 - Received notice during science class to submit a project for the contest (3/25)  
-- Decided to make an app based on my experience of losing an item, given my coding interest  
+  Decided to make an app based on my experience of losing an item, given my coding interest  
 - Started development using Java and HTML, with AI suggestions (3/28)  
-- Discovered that data wasn't saving properly  
+  Discovered that data wasn't saving properly  
 - AI recommended using Firebase (3/29)  
-- After getting approval to submit, focused on fixing bugs  
+  After getting approval to submit, focused on fixing bugs  
 - Learned and applied Firebase functions with Java (4/1)  
 - Implemented real-time sync with Firebase (4/2)  
 - Once satisfied with the system, improved the interface and added documentation (4/3)  
