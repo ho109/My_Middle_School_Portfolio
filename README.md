@@ -66,7 +66,7 @@ this web-based app helps students quickly locate lost items by floor using photo
 - Implemented real-time sync with Firebase (4/2)  
 - Once satisfied with the system, improved the interface and added documentation (4/3)  
 - Designed a poster for school-wide distribution (4/10)  
-- School is planning to adopt the system for real (4/14)
+- School is planning to adopt the system for real (4/14)  
 
 
 
@@ -105,7 +105,7 @@ this system identifies waste types using AI image recognition and guides users o
 - Designed presentation slides in Canva and refined app functionality (10/22)  
 - Simplified the UI based on feedback from classmates  
 - Presented the project in class and joined group evaluation (10/29)  
-- Ranked as one of the top teams and presented in front of the school
+- Ranked as one of the top teams and presented in front of the school  
 
 
 ---
