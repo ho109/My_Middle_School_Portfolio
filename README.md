@@ -9,7 +9,7 @@ A portfolio by **Kim Hyojae**, a student at **Naegok Middle School**, passionate
 
 Hello! I'm **Kim Hyojae**, a middle school student from South Korea.  
 I’m deeply interested in **AI**, **software development**, and solving problems I face in daily school life using technology.  
-Currently learning **Python**, **HTML**, **Java**, and **Entry**, a Korean visual coding platform.  
+Currently learning **Python**, **Java**, and **Entry** (a Korean visual coding platform.)  
 Always growing through hands-on projects.
 
 ---
