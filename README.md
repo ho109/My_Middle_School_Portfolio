@@ -121,6 +121,70 @@ The system is designed to be scalable for **libraries, public institutions**, an
 - **4/10**: Designed a poster for school distribution  
 - **4/14**: School considering full adoption of the app
 
+---
+### 3. Undertale-Inspired Turn-Based Battle Game
+
+- **Period**: 2025.05.09 ~ 2025.05.11  
+- **Role**: Full planning and design, developed entire logic and UI using AI assistance  
+- **Technologies Used**:  
+  - **Frontend**: HTML, CSS (Vive), JavaScript, Canvas API  
+  - **Game Structure**: VIVE coding environment + custom-made sprites (via Piskel)  
+  - **Image Assets**: Hand-edited pixel art monster images  
+
+---
+
+**📌 Project Overview**  
+This is a **turn-based battle game** fully implemented using the Canvas API and plain JavaScript.  
+The structure is inspired by *Undertale*, one of my favorite games, and simplified into a playable prototype.
+
+- **Z key**: Attack & start (you must press Z to begin the game) → Damage varies based on timing (closer to center = more damage)  
+- **X key**: Use item (restore HP)  
+- **C key**: Use a strong skill at the cost of some HP  
+- **Spacebar**: Restart the game after losing  
+- **Arrow keys / WASD**: Move and dodge attacks
+
+- Each enemy features a **unique bullet pattern**:
+  - Goblin: Diagonal slow bullets from the top right corner  
+  - Wolf: Alternating vertical waves (currently too easy, may need rebalance)  
+  - Wizard: Spiral-shaped projectile pattern  
+  - Fire: Rising flame bullets from the bottom  
+  - Robot: Large square-shaped bullets fired in cardinal directions (quite hard to dodge, may need tweaking)  
+  - Slime: Very weak and can be defeated in one hit
+
+> After every enemy turn, their pattern is automatically triggered.  
+> Failing to dodge results in damage.  
+> When an enemy is defeated, the player's HP is **fully restored** for the next round.
+
+---
+
+**💬 Reflections & Takeaways**  
+- This was my first time designing a full game using the **Canvas API** and JavaScript.  
+  I implemented **animation, collision detection, key input logic, and difficulty tuning** all by myself.  
+- Although tools like **Vive AI** helped me quickly structure the project,  
+  I realized that **debugging and refining the logic manually is absolutely essential**.  
+- It was especially fun and rewarding to fine-tune small details such as **goblin bullet spread** and **auto-heal after defeating slime**.
+
+---
+
+### 🛠 Development Notes
+
+- **2025.05.09**:  
+  Played *Undertale* all evening and suddenly wanted to create my own pixel-style game.  
+  Originally planned a 2-character switching battle system using WASD & arrow keys,  
+  but it became too complex to debug and I couldn't finish it, so I restarted with a simpler idea.
+
+- **2025.05.10**:  
+  Implemented basic movement, dodging, and sway effects for enemy sprites.  
+  Added enemies like Goblin, Wolf, Wizard instead of just Slime, and diversified attack patterns.  
+  Fixed bugs related to item usage, restarting with spacebar, and HP recovery.
+
+- **2025.05.11**:  
+  Finalized code structure and cleaned it up.  
+  Wrote portfolio documentation and finished gameplay testing.  
+
+---
+
+🔗 **Game Demo**: [https://ho109.github.io/pixel/](https://ho109.github.io/pixel/)
 
 ---
 
