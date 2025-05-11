@@ -183,7 +183,7 @@ The structure is inspired by *Undertale*, one of my favorite games, and simplifi
   Wrote portfolio documentation and finished gameplay testing.  
 
 🔗 **Git Hub**: https://github.com/ho109/pixel  
-🔗 **Game Demo**:(https://ho109.github.io/pixel/)
+🔗 **Game Demo**:https://ho109.github.io/pixel/
 
 ---
 
