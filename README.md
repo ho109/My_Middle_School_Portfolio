@@ -137,9 +137,9 @@ The system is designed to be scalable for **libraries, public institutions**, an
 This is a **turn-based battle game** fully implemented using the Canvas API and plain JavaScript.  
 The structure is inspired by *Undertale*, one of my favorite games, and simplified into a playable prototype.
 
-- **Z key**: Attack & start (you must press Z to begin the game) → Damage varies based on timing (closer to center = more damage)  
-- **X key**: Use item (restore HP)  
-- **C key**: Use a strong skill at the cost of some HP  
+- **z key**: Attack & start (you must press z to begin the game) → Damage varies based on timing (closer to center = more damage)  
+- **x key**: Use item (restore HP)  
+- **c key**: Use a strong skill at the cost of some HP  
 - **Spacebar**: Restart the game after losing  
 - **Arrow keys / WASD**: Move and dodge attacks
 
@@ -183,7 +183,7 @@ The structure is inspired by *Undertale*, one of my favorite games, and simplifi
   Wrote portfolio documentation and finished gameplay testing.  
 
 🔗 **Git Hub**: https://github.com/ho109/pixel  
-🔗 **Game Demo**: [https://ho109.github.io/pixel/](https://ho109.github.io/pixel/)
+🔗 **Game Demo**:(https://ho109.github.io/pixel/)
 
 ---
 
