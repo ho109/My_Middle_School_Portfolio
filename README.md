@@ -1,231 +1,231 @@
-# 📘 My Middle School Project (age 14 ~ 15)
+# 📘 My Middle School Development Portfolio
 
-A portfolio by **Kim Hyojae**, a student at **Naegok Middle School**, passionate about  
-**IT**, **Artificial Intelligence**, and creating real-world solutions through code.
+Hello! I'm **Kim Hyojae**, currently attending **Naegok Middle School**.  
+I have a deep interest in IT and artificial intelligence, and I aim to solve  
+problems I encounter at school using coding and AI as tools.
+
+This portfolio showcases the **AI app development projects**,  
+**environmental problem-solving projects**, and  
+**learning activity records** I completed during middle school.
 
 ---
 
-## 👋 About Me
+## 👤 About Me
 
-Hello! I'm **Kim Hyojae**, a middle school student from South Korea.  
-I’m deeply interested in **AI**, **software development**, and solving problems I face in daily school life using technology.  
-Currently learning **Python**, **Java**, and **Entry** (a Korean visual coding platform.)  
-Always growing through hands-on projects.
+- **Name**: Kim Hyojae  
+- **Time Period**: Grade 8 ~ Grade 9 (2024–2025)  
+- **School**: Naegok Middle School  
+- **Fields of Interest**: IT, Artificial Intelligence, App Development, Problem Solving  
+- **Technologies Used**: `Python`, `HTML`, `Java`, `Entry`, `AI (Vive)`
 
 ---
 
 ## 📂 Projects
 
-### 1. Proper Waste Sorting Program
+### 1. Proper Waste Separation Program
 
-**📅 Period**: 2024.10.15 ~ 2024.10.21  
-**🎯 Role**: Project leader, AI trainer, UI designer, and app developer  
-**🛠 Technologies Used**:  
-- **AI Training**: Entry’s image training feature  
-- **Frontend**: Entry’s built-in UI tools  
-- **Backend**: Entry’s built-in functions + custom additions  
-- **Login System**: Entry’s data saving feature  
-
----
-
-**📖 Description**  
-This project began with the broad topic of **climate change**.  
-By narrowing down to relatable issues, we chose **waste disposal** and identified that **improper sorting** was the key problem.
-
-**Core Questions**:
-- Why is recycling not working?  
-  → Because of improper waste sorting practices  
-- Solution: Use AI to help users sort waste correctly
-
-The app was developed for a Zero Waste initiative in an IT class by our team *Hojae*.  
-It helps students and users understand and perform correct waste sorting, even if they don’t know how.
-
-**Key Features**:
-- Button-based guide for known waste categories (e.g., plastic)  
-- AI camera recognition for unknown waste  
-- Friendly interface designed for beginners  
-
----
-
-**🏆 Achievements**:
-- Collected and trained ~100 images per category using Kaggle dataset  
-- Avoided overload by focusing on plastics, paper, and cans  
-- Designed presentation materials with Canva  
-- Simplified UI based on peer feedback  
-- Scored highly in school evaluation and presented in auditorium as a top team
-
----
-
-### 🛠 Development Notes
-
-- **10/10**: Started SW/AI project in school  
-- **10/15**: Created paper prototype and mockup video  
-- **10/16**: Researched how Entry could solve the problem  
-- **10/17**: Applied Entry’s object recognition feature  
-- Collected images from Kaggle (~100 per category)  
-- Reduced data size and emphasized 3 main categories  
-- **10/22**: Finalized app and Canva presentation  
-- Improved UI based on peer feedback  
-- **10/29**: Presented in class, voted by students, and ranked as a top project
-
----
-
-### 2. Lost & Found App for School
-
-**📅 Period**: 2025.03.24 ~ 2025.04.11  
-**🎯 Role**: Planned, designed, and developed everything – both frontend and backend  
-**🛠 Technologies Used**:  
-- **Hosting**: Firebase Hosting  
-- **Frontend**: HTML, CSS, JavaScript, Material Design UI, AI (Vive)  
-- **Backend**: Firebase Realtime Database or Firestore, JavaScript, Vive  
-
----
-
-**📖 Description**  
-This project was submitted to the **46th Seoul Gangnam-Seocho Student Science Invention Contest**.  
-It’s a **web-based lost & found management app** that helps students locate lost items more efficiently at school.
-
-**Key Features**:
-- Register and browse lost items by floor (1st to 4th)  
-- Image and item name registration for visual clarity  
-- Simple delete function for better management  
-- Real-time data sync with Firebase  
-- Optimized for Chromebooks and other school devices  
-- Accessible UI with large buttons and clean layout  
-- Represents a shift from analog to digital lost item management  
-- Built using Vive AI tools as development support  
-
-Admins can upload lost items, and students can search by floor—eliminating the need to visit the office and saving time.  
-The system is designed to be scalable for **libraries, public institutions**, and other environments.
-
----
-
-**🧠 Reflections & Lessons Learned**:
-- Vive made frontend development faster, but overreliance led to debugging difficulty and less creativity  
-- AI should be a tool—developers must retain independent judgment and problem-solving skills  
-- Firebase was helpful but raised concerns over security (API key exposure), suggesting a need to explore safer alternatives
-
----
-
-### 🛠 Development Notes
-
-- **3/17**: Learned about the science invention contest  
-- **3/19**: Lost my padded jacket due to a poor system → inspired the app idea  
-- **3/25**: Received official notice to submit a project  
-- **3/28**: Began development using Java and HTML, supported by AI tools  
-- **3/29**: Discovered data was not saving properly  
-- AI suggested using Firebase  
-- **4/01**: Learned and applied Firebase integration in Java  
-- **4/02**: Implemented real-time syncing  
-- **4/03**: Improved UI and wrote documentation  
-- **4/10**: Designed a poster for school distribution  
-- **4/14**: School considering full adoption of the app
-
----
-### 3. Undertale-Inspired Turn-Based Battle Game
-
-- **Period**: 2025.05.09 ~ 2025.05.11  
-- **Role**: Full planning and design, developed entire logic and UI using AI assistance  
+- **Period**: 2024.10.15 ~ 2024.10.21  
+- **Role**: Project Leader, Developer, Designer, AI Image Trainer  
 - **Technologies Used**:  
-  - **Frontend**: HTML, CSS (Vive), JavaScript, Canvas API  
-  - **Game Structure**: VIVE coding environment + custom-made sprites (via Piskel)  
-  - **Image Assets**: Hand-edited pixel art monster images  
+  - AI Image Training: Entry's image training feature  
+  - Frontend: Entry buttons and UI tools  
+  - Backend: Entry core functions + custom features  
+  - Login: Entry data storage functions  
+  - Others: Canva for presentations, Kaggle dataset used  
 
 ---
 
-**📌 Project Overview**  
-This is a **turn-based battle game** fully implemented using the Canvas API and plain JavaScript.  
-The structure is inspired by *Undertale*, one of my favorite games, and simplified into a playable prototype.
+**Project Description**  
 
-- **z key**: Attack & start (you must press z to begin the game) → Damage varies based on timing (closer to center = more damage)  
-- **x key**: Use item (restore HP)  
-- **c key**: Use a strong skill at the cost of some HP  
-- **Spacebar**: Restart the game after losing  
-- **Arrow keys / WASD**: Move and dodge attacks
+Started by analyzing the broad topic of **climate change**
 
-- Each enemy features a **unique bullet pattern**:
-  - Goblin: Diagonal slow bullets from the top right corner  
-  - Wolf: Alternating vertical waves (currently too easy, may need rebalance)  
-  - Wizard: Spiral-shaped projectile pattern  
-  - Fire: Rising flame bullets from the bottom  
-  - Robot: Large square-shaped bullets fired in cardinal directions (quite hard to dodge, may need tweaking)  
-  - Slime: Very weak and can be defeated in one hit
+→ Extracted key issues like **deforestation**, **carbon emissions**, **waste generation**
 
-> After every enemy turn, their pattern is automatically triggered.  
-> Failing to dodge results in damage.  
-> When an enemy is defeated, the player's HP is **fully restored** for the next round.
+→ Chose **waste disposal** as the most relatable issue
 
----
+> What is the core problem with waste disposal?
 
-**💬 Reflections & Takeaways**  
-- This was my first time designing a full game using the **Canvas API** and JavaScript.  
-  I implemented **animation, collision detection, key input logic, and difficulty tuning** all by myself.  
-- Although tools like **Vive AI** helped me quickly structure the project,  
-  I realized that **debugging and refining the logic manually is absolutely essential**.  
-- It was especially fun and rewarding to fine-tune small details such as **goblin bullet spread** and **auto-heal after defeating slime**.
+→ Recycling is not happening properly
 
----
+> Why is recycling rate low?
 
-### 🛠 Development Notes
+→ Due to incorrect waste separation
 
-- **2025.05.09**:  
-  Played *Undertale* all evening and suddenly wanted to create my own pixel-style game.  
-  Originally planned a 2-character switching battle system using WASD & arrow keys,  
-  but it became too complex to debug and I couldn't finish it, so I restarted with a simpler idea.
+→ Chose **incorrect waste separation** as the problem
 
-- **2025.05.10**:  
-  Implemented basic movement, dodging, and sway effects for enemy sprites.  
-  Added enemies like Goblin, Wolf, Wizard instead of just Slime, and diversified attack patterns.  
-  Fixed bugs related to item usage, restarting with spacebar, and HP recovery.
+Started as a SW/AI problem-solving school project under the theme of zero waste.  
+From the broad topic of **climate change**, we extracted the issue of **improper waste separation**  
+and decided to tackle it using **AI image recognition**.
 
-- **2025.05.11**:  
-  Finalized code structure and cleaned it up.  
-  Wrote portfolio documentation and finished gameplay testing.  
+- Recycling fails primarily due to incorrect waste sorting  
+- To solve this, we built an **app that uses AI to recognize waste types**  
+  and **suggests proper disposal methods**.
 
-🔗 **Git Hub**: https://github.com/ho109/pixel  
-🔗 **Game Demo**:https://ho109.github.io/pixel/
+**Key Features**:  
+- Provides disposal instructions by button click  
+- AI auto-recognizes waste via camera and offers separation guidance  
+- Intuitive UI improves accessibility  
+- Designed for ease of use by students unfamiliar with recycling
 
 ---
 
-## 💫 Learning Highlights
+### 🛠 Development Log
 
-### Micro:bit Projects  
-- Controlled servo motors, OLED displays, LED I/O  
-- Practiced predictive logic with real-world sensors
+- **10/10**: Project kickoff  
+- **10/15**: Paper prototype and mockup video  
+- **10/16**: Researched Entry capabilities and structured data  
+- **10/17**: Applied object recognition in Entry  
+- **10/18–20**: Collected and trained 150 images each from Kaggle  
+  - Focused on plastic, paper, and cans to avoid overload  
+- **10/22**: Made presentation slides with Canva, improved app polish  
+- **10/25–28**: Collaborated with peers for UI simplification  
+- **10/29**: Class presentation and group voting → Selected for auditorium presentation and awarded gift card
 
-### SFPC 2024 Participation  
-- Solved 8/11 problems (Rank: 119th)  
-- Visualized school API data with Google Sheets  
-- Studied computer systems and logic structure
-
-### Data Handling Practice  
-- Cleaned and structured spreadsheet datasets  
-- Found and fixed errors  
-- Created visual charts from raw data
-
----
-
-## ❓ What is Entry?
-
-**Entry** is a Korean block-based coding platform similar to Scratch.  
-Used widely in Korean schools for teaching programming.  
-Supports:  
-- AI model training  
-- Object recognition  
+**Links**:  
+- 🔗 [Entry Project](https://playentry.org/project/671593d4c40ad113746d7067)  
+- 🎥 [Presentation (Canva)](https://www.canva.com/design/DAGUKJn3pSI/M9Ogjcmxi96MZn3XSw-Wcw/edit)  
+- 📊 [Kaggle Image Dataset](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)
 
 ---
 
-## 🎁 Resources & Links
+### 2. School Lost-and-Found App
 
-- 🔗 [Entry Project - Waste Sorting App](https://playentry.org/project/671593d4c40ad113746d7067)  
-- 🎥 [Presentation (Canva)](https://www.canva.com/design/DAGlgHBqS0U/5Zv8k1mrrHjHVt1lRMjH6w/edit)  <-- If you would like to know more about this project, please read this
-- 📊 [Kaggle Dataset for AI Training](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)  
-- 🖼 [Poster - Lost & Found App (Korean)](https://www.canva.com/design/DAGTPe0au8E/fj4cUME4IcYzAhzeEHhMFg/e)
+- **Period**: 2025.03.24 ~ 2025.04.11  
+- **Role**: Full planning, design, frontend & backend development  
+- **Technologies Used**:
+  - **Hosting**: Firebase Hosting  
+  - **Frontend**: HTML, CSS (Vive), JavaScript, Material Design UI, AI (Vive)  
+  - **Backend**: Firebase Realtime DB or Firestore, JavaScript, Vive  
 
 ---
 
-## 🙌 Closing Thoughts
+**Project Description**  
+Submitted to the **46th Seoul Gangnam-Seocho Student Science Invention Contest**,  
+this **digital lost-and-found management system** is a web-based app  
+designed to help students easily find their lost items at school.
 
-These projects taught me how real-world experiences can lead to meaningful software solutions.  
-They helped me grow technically and creatively, and sparked my interest in solving problems through technology.  
-I’m excited to keep learning and building even better solutions in the future.
+- Users choose from floors 1–4 to register lost items  
+- Inputs: Image and item name → provides visual information  
+- Features: Simple delete function for ease of management  
+- Real-time sync: Firebase enables instant multi-device updates  
+- UI/UX: Optimized layout and large buttons for accessibility  
+
+This software-based app enables a practical shift  
+from analog to digital systems, showing both innovation and usability.  
+Assuming a management point per floor, users can check lost item locations  
+without visiting the teacher’s office, saving time and improving satisfaction.
+
+> First time using **Vive** for UI design support.
+
+This structure can be adapted for use in **libraries, public spaces, and more**  
+as a general-purpose **digital asset management solution**.
+
+---
+
+**Reflections / Lessons Learned**  
+- **Vive** helped build designs quickly  
+- However, **debugging was difficult** and **creative control felt limited**,  
+  so AI tools are best as assistants  
+- Learned that **Firebase is easy to use**, but exposed API keys reminded me  
+  to study **security practices** more (e.g., securing keys)  
+- Developers should use tools wisely while **thinking critically and improving actively**
+
+---
+
+### 🛠 Development Log
+
+- **3/17**: Heard about the invention contest  
+- **3/19**: Lost my padded jacket → experienced the problem firsthand  
+- **3/25**: Project submission announced in science class  
+- **3/26–27**: Formed app idea based on my lost item experience  
+- **3/28**: Began development with Java, HTML, AI  
+- **3/29**: Data wouldn’t save → AI suggested Firebase  
+- **3/30**: Finalized submission, fixed bugs  
+- **4/01**: Learned Firebase and implemented  
+- **4/02**: Real-time sync completed  
+- **4/03**: UI improvements, documentation written  
+- **4/10**: Poster created for submission  
+- **4/14**: Started discussions to adopt it at school
+
+🔗 **App Demo**: [View App](https://ho109-6eb98.web.app/)  
+
+---
+
+### 3. Undertale-Style Turn-Based Battle Game
+
+- **Period**: 2025.05.9 ~ 2025.05.13  
+- **Role**: Planning, design, game logic, and UI — fully developed using AI  
+- **Technologies Used**:  
+  - **Frontend**: HTML, CSS (Vive), JavaScript, Canvas API, VIVE  
+  - **Game Structure**: VIVE coding + Piskel-made sprites  
+  - **Image Assets**: Custom-edited pixel art monsters  
+
+---
+
+**📌 Project Description**  
+Inspired by the game **Undertale**,  
+this turn-based battle game was created using pure JavaScript and the Canvas API.
+
+- **z key**: Attack & Start → damage based on timing (closer to center = more damage)  
+- **x key**: Use healing item  
+- **c key**: Consume HP to deal powerful attack  
+- **spacebar**: Restart game after game over  
+- **Arrow keys / WASD**: Dodge and move  
+- **p key**: Choose monster (0 = Slime / 1 = Bat …)
+
+- Enemies have unique **bullet patterns**:
+  - Goblin: Diagonal bullets tracking the player  
+  - Wolf: Vertical bullets with slight side movement  
+  - Wizard: Spiral pattern bullets  
+  - Fire: Rising fire bullets that explode  
+  - Robot: Diagonal large boxes that explode clockwise/counter-clockwise  
+  - Slime: Very weak, can be defeated in one hit
+
+> Enemy patterns play out each turn. Failing to dodge causes damage.  
+> Defeating an enemy **automatically restores your health** for the next round.
+
+---
+
+**Reflections / Lessons Learned**  
+- First time using **Canvas API** and JavaScript to build a game from scratch  
+- Implemented **animations, hit detection, key events, difficulty balance**  
+- AI (Vive) was useful for structure, but real insight came from  
+  **manual debugging and logical refinement**  
+- Enjoyed fine-tuning mechanics like Goblin’s homing bullets  
+  and auto-healing after defeating Slime
+
+---
+
+### 🛠 Development Log
+
+- **5/9**: Got inspired while playing Undertale to make a pixel game  
+  Tried a 2-player version but gave up as it got too hard to beat  
+- **5/10**: Implemented movement, dodge, sway effects  
+  Added Goblin, Wolf, Wizard enemies with unique patterns  
+- **5/11**: Refactored code, tested gameplay  
+  Fixed a major bug due to missing `draw ui` function  
+- **5/12**: Final balance patch (2 hours)  
+  Reworked Goblin’s bullets to homing type  
+  Enhanced Fire & Robot bullets with explosion and visual effects
+
+🔗 **GitHub**: https://github.com/ho109/pixel  
+🔗 **Game Demo**: https://ho109.github.io/pixel/  
+
+---
+
+## 💡 Learning Record
+
+### Micro:bit Projects
+- Controlled servo motor, OLED, LED  
+- Implemented linear regression model in Entry  
+- Built prediction algorithms for data-based solutions
+
+### Participated in 2024 SFPC as Team "Baked Salt"
+- Solved 8 out of 11 problems → Ranked 119th  
+- Visualized API data with Google Sheets  
+- Studied computer systems and their operation
+
+### Data Practice
+- Organized data using Excel and Google Sheets  
+- Detected and corrected errors  
+- Created and visualized charts
