@@ -169,9 +169,10 @@ this turn-based battle game was created using pure JavaScript and the Canvas API
 - **z key**: Attack & Start → damage based on timing (closer to center = more damage)  
 - **x key**: Use healing item  
 - **c key**: Consume HP to deal powerful attack  
+- **p key**: Choose monster (0 = Slime / 1 = Bat …)  
 - **spacebar**: Restart game after game over  
 - **Arrow keys / WASD**: Dodge and move  
-- **p key**: Choose monster (0 = Slime / 1 = Bat …)
+
 
 - Enemies have unique **bullet patterns**:
   - Goblin: Diagonal bullets tracking the player  
