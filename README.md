@@ -207,6 +207,12 @@ this turn-based battle game was created using pure JavaScript and the Canvas API
 - **5/12**: Final balance patch (2 hours)  
   Reworked Goblin’s bullets to homing type  
   Enhanced Fire & Robot bullets with explosion and visual effects
+  
+- **5/13**
+  Last update (took a total of 1 hour)  
+  The slime was too easy to defeat, so I added a giant slime at the end  
+  The giant slime's projectiles now bounce off walls twice and scatter widely in a pattern  
+
 
 🔗 **GitHub**: https://github.com/ho109/pixel  
 🔗 **Game Demo**: https://ho109.github.io/pixel/  
