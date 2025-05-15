@@ -9,7 +9,7 @@ This portfolio showcases the **AI app development projects**,
 **learning activity records** I completed during middle school.  
 
 
---  
+---  
 
   
 ## 📑 Table of Contents
