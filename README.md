@@ -83,7 +83,7 @@ and decided to tackle it using **AI image recognition**.
 
 **Links**:  
 - 🔗 [Entry Project](https://playentry.org/project/671593d4c40ad113746d7067)  
-- 🎥 [Presentation (Canva)](https://www.canva.com/design/DAGUKJn3pSI/M9Ogjcmxi96MZn3XSw-Wcw/edit)  
+- 🎥 [Presentation (Canva)](https://www.canva.com/design/DAGUKJn3pSI/M9Ogjcmxi96MZn3XSw-Wcw/edit)  <-- More accurate information is here
 - 📊 [Kaggle Image Dataset](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)
 
 ---
@@ -104,7 +104,7 @@ Submitted to the **46th Seoul Gangnam-Seocho Student Science Invention Contest**
 this **digital lost-and-found management system** is a web-based app  
 designed to help students easily find their lost items at school.
 
-- Users choose from floors 1–4 to register lost items  
+- Users choose from **floors 1–4** to register lost items  
 - Inputs: Image and item name → provides visual information  
 - Features: Simple delete function for ease of management  
 - Real-time sync: Firebase enables instant multi-device updates  
