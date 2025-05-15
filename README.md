@@ -6,7 +6,20 @@ problems I encounter at school using coding and AI as tools.
 
 This portfolio showcases the **AI app development projects**,  
 **environmental problem-solving projects**, and  
-**learning activity records** I completed during middle school.
+**learning activity records** I completed during middle school.  
+
+
+--  
+
+  
+## 📑 Table of Contents
+- [👤 About Me](#-about-me)
+- [📂 Projects](#-projects)
+  - [1. Proper Waste Separation Program](#1-proper-waste-separation-program)
+  - [2. School Lost-and-Found App](#2-school-lost-and-found-app)
+  - [3. Undertale-Style Turn-Based Battle Game](#3-undertale-style-turn-based-battle-game)
+- [💡 Learning Record](#-learning-record)
+
 
 ---
 
