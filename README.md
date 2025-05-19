@@ -17,7 +17,7 @@ This portfolio showcases the **AI app development projects**,
 - [📂 Projects](#-projects)
   - [1. Proper Waste Separation Program](#1-proper-waste-separation-program)
   - [2. School Lost-and-Found App](#2-school-lost-and-found-app)
-  - [3. Turn-Based Battle Game](#3-undertale-style-turn-based-battle-game)
+  - [3. Turn-Based Battle Game](#3-turn-based-combat-game)
 - [💡 Learning Record](#-learning-record)
 
 
