@@ -143,6 +143,7 @@ as a general-purpose **digital asset management solution**.
   to study **security practices** more (e.g., securing keys)  
 - Developers should use tools wisely while **thinking critically and improving actively**
 
+
 ---
 
 ### 🛠 Development Log
@@ -163,73 +164,106 @@ as a general-purpose **digital asset management solution**.
 🔗 **App Demo**: [View App](https://ho109-6eb98.web.app/)  
 
 ---
+### 3. Turn-Based Combat Game
 
-### 3. Undertale-Style Turn-Based Battle Game
-
-- **Period**: 2025.05.9 ~ 2025.05.13  
-- **Role**: Planning, design, game logic, and UI — fully developed using AI  
+- **Period**: 2025.05.09 ~ 2025.05.19  
+- **Role**: Full planning and design, all game logic and UI developed using AI  
 - **Technologies Used**:  
-  - **Frontend**: HTML, CSS (Vive), JavaScript, Canvas API, VIVE  
-  - **Game Structure**: VIVE coding + Piskel-made sprites  
-  - **Image Assets**: Custom-edited pixel art monsters  
+  - **Frontend**: HTML, CSS (Vive), JavaScript, Canvas API  
+  - **Game Structure**: VIVE coding environment + custom-made sprites (Piskel)  
+  - **Image Assets**: Custom-edited pixel art monster sprites  
 
 ---
 
-**📌 Project Description**  
-Inspired by the game **Undertale**,  
-this turn-based battle game was created using pure JavaScript and the Canvas API.
+**📌 Project Overview**  
+This project is a **turn-based combat game** implemented purely with JavaScript and Canvas API.  
+The game is inspired by *Undertale* and features unique bullet patterns for each enemy.
 
-- **z key**: Attack & Start → damage based on timing (closer to center = more damage)  
-- **x key**: Use healing item  
-- **c key**: Consume HP to deal powerful attack  
-- **p key**: Choose monster (0 = Slime / 1 = Bat …)  
-- **spacebar**: Restart game after game over  
-- **Arrow keys / WASD**: Dodge and move  
+- **Z Key**: Start attack gauge (closer to center = higher damage)  
+- **X Key**: Use item (restore HP)  
+- **C Key**: Sacrifice HP for a powerful attack  
+- **P Key**: Manually change enemy (for debugging)  
+- **Spacebar**: Restart game when over  
+- **WASD / Arrow Keys**: Move and dodge  
 
-
-- Enemies have unique **bullet patterns**:
-  - Goblin: Diagonal bullets tracking the player  
-  - Wolf: Vertical bullets with slight side movement  
-  - Wizard: Spiral pattern bullets  
-  - Fire: Rising fire bullets that explode  
-  - Robot: Diagonal large boxes that explode clockwise/counter-clockwise  
-  - Slime: Very weak, can be defeated in one hit
-
-> Enemy patterns play out each turn. Failing to dodge causes damage.  
-> Defeating an enemy **automatically restores your health** for the next round.
+> Each turn, enemies auto-execute a bullet pattern. Failing to dodge results in HP loss.  
+> Defeating an enemy fully restores your HP for the next turn.  
 
 ---
 
-**Reflections / Lessons Learned**  
-- First time using **Canvas API** and JavaScript to build a game from scratch  
-- Implemented **animations, hit detection, key events, difficulty balance**  
-- AI (Vive) was useful for structure, but real insight came from  
-  **manual debugging and logical refinement**  
-- Enjoyed fine-tuning mechanics like Goblin’s homing bullets  
-  and auto-healing after defeating Slime
+**🎮 Enemy Patterns Summary**
+- **Slime**: Bullets fired from the four corners  
+- **Bat**: Side-firing horizontal projectiles  
+- **Skeleton Archer**: Diagonal homing shots from top-right  
+- **Skull**: Random vertical drops from above  
+- **King Slime**: Bullets bounce off walls from center  
+- **Robot**: Warns positions, then explodes in 8 directions  
+- **Wizard..?**: Spiral-shaped bullet pattern  
+- **Real Wizard**: 4-phase bullet attack (homing, delayed blast, etc.)  
+- **Fire**: Rises from below and explodes at peak  
+- **Goblin Shop**: Shop interface only — no combat  
+
+---
+
+**📈 Difficulty System**
+- **Easy**: Enemy HP/ATK × 0.7  
+- **Normal**: × 0.9  
+- **Hard**: × 1.3  
+- Difficulty is selected at the start screen, and UI language (Korean/English) adapts dynamically.
 
 ---
 
 ### 🛠 Development Log
 
-- **5/9**: Got inspired while playing Undertale to make a pixel game  
-  Tried a 2-player version but gave up as it got too hard to beat  
-- **5/10**: Implemented movement, dodge, sway effects  
-  Added Goblin, Wolf, Wizard enemies with unique patterns  
-- **5/11**: Refactored code, tested gameplay  
-  Fixed a major bug due to missing `draw ui` function  
-- **5/12**: Final balance patch (2 hours)  
-  Reworked Goblin’s bullets to homing type  
-  Enhanced Fire & Robot bullets with explosion and visual effects
-  
-- **5/13**
-  Last update (took a total of 1 hour)  
-  The slime was too easy to defeat, so I added a giant slime at the end  
-  The giant slime's projectiles now bounce off walls twice and scatter widely in a pattern  
+- **5/9**: Got inspired by *Undertale* to make a pixel game  
+  Originally wanted a 2-player action game with separate controls but gave up as it was too hard to beat
+
+- **5/10**: Implemented movement and dodging with sway animation  
+  Added more enemies (Goblin, Mage, etc.) instead of just Slime  
+  Fixed bugs with item use and restarting via spacebar  
+
+- **5/12**: Distributed to friends at school — feedback was positive, so continued development  
+  Fixed minor bugs (e.g., Slime sprite being replaced by Bat)  
+
+- **5/13**: Major code cleanup and refactoring  
+  Portfolio and playtest planned, but monster images were broken  
+  Replaced all sprites and adjusted code accordingly  
+  Almost missed defining `drawUI`, which caused a big issue  
+
+- **5/14**: GitHub upload attempt led to major issues  
+  Created a new `game` folder and force-pushed over `pixel`, which broke everything  
+  Spent the entire day recovering — risky but educational  
+
+- **5/15**: Refined code and successfully uploaded to GitHub  
+  Learned proper version control the hard way  
+
+- **5/16**: Brought laptop to school camp trip but barely coded  
+
+- **5/17**: Sleep-deprived from camp — made many bugs  
+
+- **5/18**: Back on track  
+  A dev-savvy friend discovered dev tools could bypass the game  
+  Added a password system to lock dev tools behind the "O" key  
+  Learned that I'll need obfuscation post-launch  
+
+- **5/19**: Added difficulty levels and a title screen  
+  (Easy: 0.7x, Normal: 0.9x, Hard: 1.3x enemy stats)  
+  Fixed enemy HP initialization bug  
+  Improved resolution and tweaked clarity (pixel blur added to keep the "gamey" feel)  
+  Fixed Goblin Shop issue (didn’t trigger due to being hardcoded in Korean only)  
+  Finalized portfolio on GitHub  
+
+---
+
+**💬 Reflections**  
+This took longer than expected.  
+Originally just a quick 3-day project with ~500 lines of code to play with friends — turned into something much more.  
+Still, every time someone gave feedback, it felt like solving a quest. That made it fun.  
+This experience reinforced how vital **user communication** is when building games or services.  
 
 
-🔗 **GitHub**: https://github.com/ho109/pixel  
-🔗 **Game Demo**: https://ho109.github.io/pixel/  
+**🔗 Links**  
+- [🎮 Play Game](https://ho109.github.io/game/)
 
 ---
 
