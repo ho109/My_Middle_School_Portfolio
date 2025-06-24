@@ -144,7 +144,8 @@ as a general-purpose **digital asset management solution**.
   to study **security practices** more (e.g., securing keys)  
 - Developers should use tools wisely while **thinking critically and improving actively**
 
-
+**Result**
+- (The project was awarded a gold award in school.) / ( Encouragement Award in the contest )
 ---
 
 ### 🛠 Development Log
@@ -269,65 +270,6 @@ This experience reinforced how vital **user communication** is when building gam
 
 ---  
   
-  
-### 4. Element Absorption Pixel Game (Unity)
-
-**Period**: 2025.06.02 ~ Ongoing  
-**Role**: Planner, Programmer, Designer  
-**Engine**: Unity 2D  
-**Language**: C#  
-**Tools**: Unity Editor, Sprite Editor, Piskel, VS code  
-**Features**: Real-time element detection, texture color sampling, pixel-style visuals  
-
-  
----
-
-  
-**📌 Project Overview**  
-
-This is a 2D pixel-style exploration game where players absorb **elemental attributes** from colored tiles  
-by pressing **Q** while standing on them. Absorbed elements are visually displayed next to the player.  
-Each color corresponds to a unique element such as **Grass**, **Fire**, or **Poison**.  
-This system will later influence **combat, synthesis**, and **environment interaction**.
-
-  
----
-
-### 🌈 Element Types and Colors
-
-| **Element** | **Color Code (Hex)** | **Unity RGB (0~1)**         |
-|-------------|-----------------------|------------------------------|
-| Grass       | `#00FF2C`             | `new Color(0f, 1f, 0.17f)`   |
-| Water       | `#3D00FF`             | `new Color(0.24f, 0f, 1f)`   |
-| Fire        | `#FF0000`             | `new Color(1f, 0f, 0f)`      |
-| Rock        | `#A5A5A5`             | `new Color(0.65f, 0.65f, 0.65f)` |
-| Earth       | `#A55A00`             | `new Color(0.65f, 0.35f, 0f)` |
-| Light       | `#FFF282`             | `new Color(1f, 0.95f, 0.51f)` |
-| Dark        | `#44094B`             | `new Color(0.27f, 0.04f, 0.29f)` |
-| Poison      | `#215A1F`             | `new Color(0.13f, 0.35f, 0.12f)` |
-
----
-
-  
-### 🛠 Development Log
-
-- **6/02**:  
-- **6/03**:  
-- **6/04**:  
-- **6/05**:  
-- **6/06**:  
-- **6/07**:  
-- **6/08**:  
-- **6/09**:  
-- **6/10**:  
-
-  
----
-  
-## 🔗 Links
-
-
----
 
 ## 💡 Learning Record
 
