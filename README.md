@@ -18,7 +18,6 @@ This portfolio showcases the **AI app development projects**,
   - [1. Proper Waste Separation Program](#1-proper-waste-separation-program)
   - [2. School Lost-and-Found App](#2-school-lost-and-found-app)
   - [3. Turn-Based Battle Game](#3-turn-based-combat-game)
-  - [4. Element Absorption Pixel Game (Unity)](#4-element-absorption-pixel-game-unity)
 - [💡 Learning Record](#-learning-record)
 
 
