@@ -29,7 +29,7 @@ This portfolio showcases the **AI app development projects**,
 - **Time Period**: Grade 8 ~ Grade 9 (2024–2025)  
 - **School**: Naegok Middle School  
 - **Fields of Interest**: IT, Artificial Intelligence, App Development, Problem Solving  
-- **Technologies Used**: `Python`, `HTML`, `Java`, `Entry`, `AI (Vive)`
+- **Technologies Used**: `Python`, `HTML`, `Java Script`, `Entry`, `AI (Vive)`
 
 ---
 
